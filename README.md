@@ -1,1 +1,1 @@
-# three-js
+Repository for [Bruno Simon's Three JS Journey Course](https://threejs-journey.com/)
