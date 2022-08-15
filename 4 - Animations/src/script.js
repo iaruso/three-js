@@ -1,7 +1,6 @@
 import './style.css'
 import * as THREE from 'three'
 import gsap from 'gsap'
-console.log(gsap)
 
 // Scene
 const scene = new THREE.Scene()
