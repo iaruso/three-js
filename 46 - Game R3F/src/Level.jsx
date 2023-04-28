@@ -3,7 +3,7 @@ import { useFrame } from '@react-three/fiber'
 import * as THREE from 'three'
 import { RigidBody } from '@react-three/rapier'
 import { useGLTF } from '@react-three/drei'
-// THREE.ColorManagement.legacyMode = true
+THREE.ColorManagement.legacyMode = true
 
 const boxGeometry = new THREE.BoxGeometry( 1, 1, 1 )
 
