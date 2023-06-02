@@ -19,7 +19,7 @@ Applying physics to enable object collisions and interactions and importing cust
 Creating materials with shader language to unlock the full potential of WebGL and craft awe-inspiring experiences.
 #### Extra (28 - 31)
 Exploring new techniques after mastering shaders, ensureing projects run smoothly on a variety of devices by monitoring and optimizing performance.
-#### Extra (32 - 33)
+#### Portal Scene (32 - 33)
 Discovering Blender's power to create captivating scenes and unleashing the potential of the baking technique to achieve stunning lighting and shadows for scenario creations.
 #### React Three Fiber (34 - 46)
 Integration of Three.js with React using React Three Fiber (R3F) by creating amazing experiences with minimal code.
